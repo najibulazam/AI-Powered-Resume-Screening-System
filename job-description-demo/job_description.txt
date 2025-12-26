@@ -1,0 +1,75 @@
+Job Description: Junior Software Engineer (Backend-Focused)
+
+Location: Remote / Bangladesh
+Experience Level: 0–2 Years
+Employment Type: Full-time
+
+Job Summary
+
+We are looking for a Junior Software Engineer with a strong foundation in backend development to join our growing engineering team. The ideal candidate will work closely with senior developers to build, maintain, and scale web applications and RESTful APIs. Experience with modern frameworks, version control, and basic DevOps practices is preferred.
+
+Responsibilities
+
+Develop and maintain backend services using Python-based frameworks
+
+Design and consume RESTful APIs
+
+Work with frontend developers to integrate backend logic with user interfaces
+
+Implement authentication and authorization mechanisms
+
+Write clean, maintainable, and well-documented code
+
+Participate in Agile development processes including sprint planning and reviews
+
+Use Git for version control and collaborate via GitHub
+
+Assist in deployment and monitoring of applications in cloud environments
+
+Debug, test, and optimize application performance
+
+Required Skills
+
+Proficiency in Python
+
+Experience with Django or similar backend frameworks
+
+Understanding of REST API design
+
+Basic knowledge of frontend technologies (HTML, CSS, JavaScript)
+
+Familiarity with Git and GitHub
+
+Understanding of databases and backend architecture
+
+Knowledge of JWT-based authentication is a plus
+
+Strong problem-solving and debugging skills
+
+Preferred / Nice-to-Have Skills
+
+Experience with React or other frontend frameworks
+
+Exposure to FastAPI
+
+Basic knowledge of Docker
+
+Familiarity with CI/CD pipelines
+
+Experience deploying applications using platforms like Render, Netlify, or similar
+
+Interest in AI-powered or data-driven applications
+
+Education
+
+Bachelor's degree in Computer Science, Engineering, or related field (ongoing or completed)
+
+What We Offer
+
+Opportunity to work on real-world production systems
+
+Mentorship from senior engineers
+
+Flexible working environment
+
+Learning and growth opportunities in modern web technologies
