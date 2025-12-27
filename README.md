@@ -8,7 +8,7 @@
 A production-ready full-stack AI system that automates resume screening using specialized AI agents. Built with FastAPI, React, and powered by Groq's LLaMA models for lightning-fast inference.
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x400/0d6efd/ffffff?text=Agent-Based+Resume+Screening+System" alt="System Architecture" />
+  <img src="https://interviewdesk.ai/wp-content/uploads/2023/09/Unlocking-the-Power-of-Resume-Screening-AI_-A-Guide-for-HR-Professionals.png" alt="System Architecture" />
 </div>
 
 ## 📋 Table of Contents
