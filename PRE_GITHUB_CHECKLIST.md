@@ -75,7 +75,7 @@ git commit -m "feat: initial commit - complete AI resume screening system
 
 2. **Connect local repo to GitHub**
    ```bash
-   git remote add origin https://github.com/yourusername/repository-name.git
+   git remote add origin https://github.com/najibulazam/AI-Powered-Resume-Screening-System.git
    git branch -M main
    git push -u origin main
    ```
@@ -153,7 +153,7 @@ jobs:
 2. **Test clone and setup**
    ```bash
    # Clone to a different directory
-   git clone https://github.com/yourusername/repo.git test-clone
+   git clone https://github.com/najibulazam/AI-Powered-Resume-Screening-System.git test-clone
    cd test-clone
    
    # Follow README installation steps
@@ -190,4 +190,4 @@ Your project is now ready for the world to see!
 
 ---
 
-**Note:** Replace `yourusername` and `repository-name` with your actual GitHub username and repository name throughout the documentation.
+**Note:** All references to `yourusername` and `repository-name` have been updated to najibulazam and AI-Powered-Resume-Screening-System throughout the documentation.

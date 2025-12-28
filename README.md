@@ -4,8 +4,12 @@
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![React 18](https://img.shields.io/badge/react-18.0+-61dafb.svg)](https://reactjs.org/)
 [![FastAPI](https://img.shields.io/badge/FastAPI-0.100+-009688.svg)](https://fastapi.tiangolo.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-najibulazam-181717?logo=github)](https://github.com/najibulazam)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-najibulazam-0077B5?logo=linkedin)](https://linkedin.com/in/najibulazam)
 
 A production-ready full-stack AI system that automates resume screening using specialized AI agents. Built with FastAPI, React, and powered by Groq's LLaMA models for lightning-fast inference.
+
+**Author:** Md Najib Ul Azam Mahi | [GitHub](https://github.com/najibulazam) | [LinkedIn](https://linkedin.com/in/najibulazam) | [Email](mailto:azam.mdnajibul@gmail.com)
 
 <div align="center">
   <img src="https://interviewdesk.ai/wp-content/uploads/2023/09/Unlocking-the-Power-of-Resume-Screening-AI_-A-Guide-for-HR-Professionals.png" alt="System Architecture" />
@@ -272,8 +276,8 @@ Response: {
 ### Step 1: Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/resume-screening-system.git
-cd resume-screening-system
+git clone https://github.com/najibulazam/AI-Powered-Resume-Screening-System.git
+cd AI-Powered-Resume-Screening-System
 ```
 
 ### Step 2: Backend Setup
@@ -711,9 +715,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 For questions, issues, or suggestions:
 
-- **Issues**: [GitHub Issues](https://github.com/yourusername/resume-screening-system/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/resume-screening-system/discussions)
-- **Email**: support@example.com
+- **Issues**: [GitHub Issues](https://github.com/najibulazam/AI-Powered-Resume-Screening-System/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/najibulazam/AI-Powered-Resume-Screening-System/discussions)
+- **Email**: azam.mdnajibul@gmail.com
 
 ---
 
@@ -723,8 +727,8 @@ For questions, issues, or suggestions:
 
 ⭐ Star this repo if you find it helpful!
 
-[Report Bug](https://github.com/yourusername/resume-screening-system/issues) · 
-[Request Feature](https://github.com/yourusername/resume-screening-system/issues) · 
-[Documentation](https://github.com/yourusername/resume-screening-system/wiki)
+[Report Bug](https://github.com/najibulazam/AI-Powered-Resume-Screening-System/issues) · 
+[Request Feature](https://github.com/najibulazam/AI-Powered-Resume-Screening-System/issues) · 
+[Documentation](https://github.com/najibulazam/AI-Powered-Resume-Screening-System/wiki)
 
 </div>

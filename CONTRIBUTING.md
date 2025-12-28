@@ -296,8 +296,8 @@ Add screenshots
 
 ## Questions?
 
-- Open a [Discussion](https://github.com/yourusername/resume-screening-system/discussions)
-- Email: support@example.com
+- Open a [Discussion](https://github.com/najibulazam/AI-Powered-Resume-Screening-System/discussions)
+- Email: azam.mdnajibul@gmail.com
 
 ## Recognition
 
