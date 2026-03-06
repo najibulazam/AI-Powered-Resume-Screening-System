@@ -28,7 +28,7 @@ function HomePage() {
         </div>
         <div className="col-lg-6">
           <img 
-            src="https://interviewdesk.ai/wp-content/uploads/2023/09/Unlocking-the-Power-of-Resume-Screening-AI_-A-Guide-for-HR-Professionals.png" 
+            src="https://res.cloudinary.com/dohxtmd1j/image/upload/v1772789109/Resume-Screening-AI_-A-Guide-for-HR-Professionals_kitp29.png" 
             alt="AI Resume Screening" 
             className="img-fluid rounded shadow"
           />
